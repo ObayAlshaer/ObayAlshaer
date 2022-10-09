@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there! My name is Mohamed-Obay Alshaer
 
-<!--
-**ObayAlshaer/ObayAlshaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a Software Engineering student @ the University of Ottawa
 
-Here are some ideas to get you started:
+### My passions include machine learning🤖, quantitaive finance💰, and HFT📈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working on:
+####   - Algorithmic Trading Bot😇
+####   - Flappy bird game🐥
+
+#### Connect with me on LinkedIn: ###########
+[![image search api](https://cdn-icons-png.flaticon.com/512/174/174857.png)](www.linkedin.com/in/moalshaer)
+
+
+
