@@ -2,7 +2,7 @@
 
 ### I am a Software Engineering student @ the University of Ottawa
 
-### My passions include machine learning🤖, quantitaive finance💰, and HFT📈
+### My passions include machine learning🤖 and finance💰
 
 ### Currently working on:
 ####   - Black-Scholes Options Trading Model
