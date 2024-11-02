@@ -5,8 +5,7 @@
 ### My passions include machine learning🤖, quantitaive finance💰, and HFT📈
 
 ### Currently working on:
-####   - Algorithmic Trading Bot😇
-####   - Flappy bird game🐥
+####   - Black-Scholes Options Trading Model
 
 ##### E-mail me📧 @ obay.alshaer@gmail.com if you're interested in collaborating!
 
