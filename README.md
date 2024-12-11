@@ -10,7 +10,7 @@
 ##### E-mail me📧 @ obay.alshaer@gmail.com if you're interested in collaborating!
 
 #### Connect with me on LinkedIn: ###########
-[![image search api](https://cdn-icons-png.flaticon.com/512/174/174857.png)](www.linkedin.com/in/moalshaer)
+[![image search api](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/moalshaer/)
 
 
 
