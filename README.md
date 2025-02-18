@@ -5,7 +5,7 @@
 ### My passions include machine learning🤖 and finance💰
 
 ### Currently working on:
-####   - Black-Scholes Options Trading Model
+####   - ChessMentor Application
 
 ##### E-mail me📧 @ obay.alshaer@gmail.com if you're interested in collaborating!
 
